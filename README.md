@@ -1,0 +1,1 @@
+# campus-alert-app-privacy
